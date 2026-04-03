@@ -19,10 +19,11 @@
 - AWS EC2
 - Linux (Amazon Linux)
 
-## install git
+## 📦 Git Installation (Amazon Linux)
 ````
 sudo su -
 ````
+Installation performed using package manager:
 ````?
 yum install git
 ````
