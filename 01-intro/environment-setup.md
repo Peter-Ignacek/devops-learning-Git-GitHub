@@ -18,3 +18,11 @@
 - GitHub
 - AWS EC2
 - Linux (Amazon Linux)
+
+## instal git
+````
+sudo su -
+````
+````?
+yum install git
+````
