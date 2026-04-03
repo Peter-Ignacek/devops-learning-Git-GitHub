@@ -42,3 +42,12 @@ git config --global user.email "piotr@ignacek.com"
 git config --global user.name
 git config --global user.email
 ````
+## 🔍 Git Configuration Check
+
+Display current Git configuration:
+
+```bash
+git config --list
+````
+<img width="572" height="374" alt="image" src="https://github.com/user-attachments/assets/5f686283-e932-4008-8d5d-a4d9c8f963c4" />
+
