@@ -19,7 +19,7 @@
 - AWS EC2
 - Linux (Amazon Linux)
 
-## instal git
+## install git
 ````
 sudo su -
 ````
