@@ -27,3 +27,18 @@ Installation performed using package manager:
 ````?
 yum install git
 ````
+
+
+## 👤 Git Configuration
+
+Set global Git identity:
+
+```bash
+git config --global user.name "Piotr"
+git config --global user.email "piotr@ignacek.com"
+````
+## 🔍 Verify Configuration
+````
+git config --global user.name
+git config --global user.email
+````
