@@ -1,0 +1,63 @@
+# Secrets and local environment
+.env
+.env.*
+*.env
+*.secret
+*.secrets
+secrets.*
+credentials.*
+token.*
+tokens.*
+apikey.*
+api_key.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+known_hosts
+
+# DevOps tools and generated state
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.kube/
+kubeconfig*
+inventory.ini
+hosts.ini
+vault-password*
+*.retry
+
+# Language and tooling caches
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.mypy_cache/
+.ruff_cache/
+
+# Logs, temporary files, and archives
+logs/
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.rar
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
