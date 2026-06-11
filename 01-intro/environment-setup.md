@@ -34,8 +34,8 @@ yum install git
 Set global Git identity:
 
 ```bash
-git config --global user.name "Piotr"
-git config --global user.email "piotr@ignacek.com"
+git config --global user.name "<HOMELAB_JEDI>"
+git config --global user.email "<HOMELAB_JEDI>@ignacek.com"
 ````
 ## 🔍 Verify Configuration
 ````
